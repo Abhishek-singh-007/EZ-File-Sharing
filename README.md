@@ -29,8 +29,8 @@ Created By - Abhishek Singh ( https://my-portfolio-six-tau-59.vercel.app/ )
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap 5.3, JavaScript
-- **Backend**: Django
+- **Frontend**: HTML, CSS, Bootstrap 5.3
+- **Backend**: Django, RestApi, FastApi
 - **Database**: MySQL
 - **Other**: CSV handling, Email integration
 
